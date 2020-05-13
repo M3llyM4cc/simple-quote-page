@@ -1,0 +1,30 @@
+.cover {
+  background: url('assets/freedom.jpg') no-repeat center;
+  background-size: cover;
+  height: 100vh;
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+  display: table;
+  width: 100vw;
+}
+
+.citation {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 2.5rem;
+  color: #333;
+  word-spacing: inherit;
+  line-height: 150%;
+  display: block;
+  margin-top: 8rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+
+.rousseau {
+  font-family: 'Crimson Text', serif;
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #333;
+  display: block;
+  margin-top: 3rem;
+}
